@@ -1,0 +1,31 @@
+{
+  "name": "pc-tweaks-app",
+  "version": "1.0.0",
+  "description": "An Electron app for PC tweaks with a modern and sleek design.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [
+    "electron",
+    "pc",
+    "tweaks",
+    "app"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.0.1",
+    "electron-builder": "^24.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smiley-Devv/tweaks-app-with-electron-modernui-"
+  },
+  "bugs": {
+    "url": "https://github.com/Smiley-Devv/tweaks-app-with-electron-modernui-/issues"
+  },
+  "homepage": "https://github.com/Smiley-Devv/tweaks-app-with-electron-modernui-/blob/main/README.md"
+}
+
